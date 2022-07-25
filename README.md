@@ -1,0 +1,2 @@
+# Submission2_Fundamental
+Submission2 Fundamental dicoding
