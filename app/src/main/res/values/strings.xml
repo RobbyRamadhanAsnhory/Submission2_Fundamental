@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github App</string>
+    <string name="message_main">Find The Username You Are Looking For</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="splash_github">Github</string>
+    <string name="desc_search_main">This Is a Search Icon</string>
+    <string name="desc_logo_github">This Is The Github Logo</string>
+    <string name="desc_avatar_detail">This Is An Avatar In Details</string>
+    <string name="desc_avatar_main">This Is An Avatar In Main</string>
+    <string name="search_hint" translatable="true">Find Someone Here</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_not_found" translatable="true">Username Not Found :(</string>
+    <string name="followers_not_found" translatable="true">No Followers For %s</string>
+    <string name="following_not_found" translatable="true">%s Not following anyone</string>
+    <string name="languages" translatable="true">Languages</string>
+</resources>
